@@ -1,0 +1,11 @@
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\bin\Debug\net8.0\TaskListModels.deps.json
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\bin\Debug\net8.0\TaskListModels.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\bin\Debug\net8.0\TaskListModels.pdb
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\TaskListModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\TaskListModels.AssemblyInfoInputs.cache
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\TaskListModels.AssemblyInfo.cs
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\TaskListModels.csproj.CoreCompileInputs.cache
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\TaskListModels.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\refint\TaskListModels.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\TaskListModels.pdb
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskListModels\obj\Debug\net8.0\ref\TaskListModels.dll

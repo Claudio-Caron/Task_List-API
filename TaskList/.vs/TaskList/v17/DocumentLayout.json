@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklist\\requests\\taskrequestedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\requests\\taskrequestedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklist\\endpoints\\taskextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\endpoints\\taskextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C468B5-E625-4141-B1F3-64C4D720B233}|TaskList.Data\\TaskList.Data.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklist.data\\base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C468B5-E625-4141-B1F3-64C4D720B233}|TaskList.Data\\TaskList.Data.csproj|solutionrelative:tasklist.data\\base\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklist\\responses\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\responses\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A397B5F4-1A4A-4B73-B613-459528BFF752}|TaskListModels\\TaskListModels.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklistmodels\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A397B5F4-1A4A-4B73-B613-459528BFF752}|TaskListModels\\TaskListModels.csproj|solutionrelative:tasklistmodels\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|c:\\users\\claud\\versionamento\\task_list-api\\tasklist\\tasklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAFF669-A519-47AB-A06F-DBA31326BAE6}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 448,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskListModels\\Model\\Tarefa.cs",
+              "RelativeDocumentMoniker": "TaskListModels\\Model\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskListModels\\Model\\Tarefa.cs",
+              "RelativeToolTip": "TaskListModels\\Model\\Tarefa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:11:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRequestEdit.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Requests\\TaskRequestEdit.cs",
+              "RelativeDocumentMoniker": "TaskList\\Requests\\TaskRequestEdit.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Requests\\TaskRequestEdit.cs",
+              "RelativeToolTip": "TaskList\\Requests\\TaskRequestEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:05:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Responses\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "TaskList\\Responses\\TaskResponse.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Responses\\TaskResponse.cs",
+              "RelativeToolTip": "TaskList\\Responses\\TaskResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:58:40.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList.Data\\Base\\DAL.cs",
+              "RelativeDocumentMoniker": "TaskList.Data\\Base\\DAL.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList.Data\\Base\\DAL.cs",
+              "RelativeToolTip": "TaskList.Data\\Base\\DAL.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:51:39.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Endpoints\\TaskExtentions.cs",
+              "RelativeDocumentMoniker": "TaskList\\Endpoints\\TaskExtentions.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Endpoints\\TaskExtentions.cs",
+              "RelativeToolTip": "TaskList\\Endpoints\\TaskExtentions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:48:23.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Program.cs",
+              "RelativeDocumentMoniker": "TaskList\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\Program.cs",
+              "RelativeToolTip": "TaskList\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:47:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskList\\appsettings.json",
+              "ToolTip": "C:\\Users\\claud\\Versionamento\\Task_List-API\\TaskList\\TaskList\\appsettings.json",
+              "RelativeToolTip": "TaskList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T18:32:12.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

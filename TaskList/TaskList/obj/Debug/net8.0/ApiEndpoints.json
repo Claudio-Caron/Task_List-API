@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "TaskList.Endpoints.TaskExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsTask\u003Eb__0_0",
+    "RelativePath": "Tasks",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskList.Endpoints.TaskExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsTask\u003Eb__0_1",
+    "RelativePath": "Tasks",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TaskList.Requests.TaskRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskList.Endpoints.TaskExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsTask\u003Eb__0_2",
+    "RelativePath": "Tasks",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TaskList.Requests.TaskRequestEdit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskList.Endpoints.TaskExtentions\u002B\u003C\u003Ec",
+    "Method": "\u003CAddEndpointsTask\u003Eb__0_3",
+    "RelativePath": "Tasks/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\bin\Debug\net8.0\TaskList.Data.deps.json
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\bin\Debug\net8.0\TaskList.Data.runtimeconfig.json
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\bin\Debug\net8.0\TaskList.Data.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\bin\Debug\net8.0\TaskList.Data.pdb
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.csproj.AssemblyReference.cache
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.AssemblyInfoInputs.cache
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.AssemblyInfo.cs
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.csproj.CoreCompileInputs.cache
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\refint\TaskList.Data.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.pdb
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.Data.genruntimeconfig.cache
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\ref\TaskList.Data.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\bin\Debug\net8.0\TaskListModels.dll
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\bin\Debug\net8.0\TaskListModels.pdb
+C:\Users\claud\Versionamento\Task_List-API\TaskList\TaskList.Data\obj\Debug\net8.0\TaskList.3AE66361.Up2Date
